@@ -4,13 +4,7 @@ author: "Kaumod"
 date: "11 July 2019"
 output: html_document
 ---
----
-title: Practical Machine Learning Project Report
-author: "by Hongzheng Wang"
-output:
-  html_document:
-    fig_height: 9
-    fig_width: 9
+
 ---
 
 ## Introduction  
